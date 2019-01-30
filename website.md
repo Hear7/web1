@@ -21,6 +21,7 @@
 -   https://time.geekbang.org/（极客时间）
 -   https://www.bilibili.com/（公开课超多，哈哈）
 -   https://stackoverflow.com
+-   http://www.ansible.com.cn/（ansible中午网站）
 
 #### Python知识网站
 
