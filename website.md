@@ -21,7 +21,9 @@
 -   https://time.geekbang.org/（极客时间）
 -   https://www.bilibili.com/（公开课超多，哈哈）
 -   https://stackoverflow.com
--   http://www.ansible.com.cn/（ansible中午网站）
+-   http://www.ansible.com.cn/（ansible中文网站）
+-   https://www.xiaobd.net(小不点搜索网站)
+-   http://www.jgkong.com/
 
 #### Python知识网站
 
@@ -52,6 +54,8 @@
 - http://86mhz.cn/(大数据,人工智能学习网站)
 - https://www.hellobi.com/(天善智能)
 - https://morvanzhou.github.io/(莫烦python)
+- https://mlln.cn/
+- http://zixun.peoplecert.cn/
 
 #### 深度学习
 
@@ -92,6 +96,16 @@
 
   
 
+#### 数据库相关网站
+
+- https://www.scutech.com(鼎甲科技,主要做数据管理和备份)
+- http://www.dameng.com(武汉达梦数据库)
+- https://www.oracle.com/cn/index.html(甲骨文中文网站)
+- https://www.mysql.com(mysql网站)
+- https://redis.io(redis网站)
+- https://www.mongodb.com(mongodb网站)
+- http://www.mongoing.com/(mongodb中文社区)
+
 #### 前端技术网站
 
 - https://www.bootcdn.cn/
@@ -105,7 +119,10 @@
 
 - https://leetcode-cn.com/(领扣题库)
 
+#### 系统文件网站
 
+- http://www.5sharing.com(5分享文库中心)
+- https://ipcmen.com/(Linux命令大全)
 
 #### 金融量化分析
 
@@ -133,7 +150,11 @@
 - https://www.cnblogs.com/bianchengniuren/p/10072169.html(框架和数据库参考)
 - https://github.com/doocs/advanced-java(github面试)
 
+#### 个人网站
 
+- https://xu3352.github.io/archive
+
+  
 
 #### 医药网站
 
@@ -156,12 +177,16 @@
 
 - http://www.renren.com(人人网)
 
+  
+
+  
+
     
 
   #### 学信网
 
   - https://www.chsi.com.cn/（查学历）
-
+  
     
-
+  
   
